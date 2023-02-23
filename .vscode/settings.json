@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/c8ee5868-a081-4bf7-bbef-c594d4afa4b8/resourceGroups/rohan-rg/subscriptions/c8ee5868-a081-4bf7-bbef-c594d4afa4b8/resourceGroups/rohan-rg/providers/Microsoft.Web/sites/third-party-apis",
+    "appService.deploySubpath": "."
+}
